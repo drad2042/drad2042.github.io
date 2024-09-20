@@ -5,9 +5,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Skills
+Coding: Python, SQL, Java, R, Scala, JavaScript, HTML, CSS/
+Tools: Git, Hadoop, Apache Spark, MySQL, MongoDB, Google Cloud Platform, Bash/ 
+Languages: English (Fluent), Russian (Proficient), Spanish (Conversational)/
 
 ## Header 2
 
