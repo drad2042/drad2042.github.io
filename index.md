@@ -1,5 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/daniel-radunsky/)
-
+[LinkedIn](https://www.linkedin.com/in/daniel-radunsky/)/
 [Github](https://github.com/drad2042)
 
 There should be whitespace between paragraphs.
