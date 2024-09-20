@@ -1,4 +1,4 @@
-[LinkedIn](./another-page.html).
+[LinkedIn](./another-page.html)
 
 There should be whitespace between paragraphs.
 
