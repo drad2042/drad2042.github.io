@@ -7,9 +7,6 @@
   </a>
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/daniel-radunsky/) \
-[GitHub](https://github.com/drad2042)
-
 Hi, my name is Daniel Radunsky. I am currently a student at Penn State University - University Park majoring in Computational Data Sciences in the College of Engineering with an expected graduation date of May, 2025.
 
 ## Skills
