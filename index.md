@@ -8,7 +8,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Skills
 Coding: Python, SQL, Java, R, Scala, JavaScript, HTML, CSS \
 Tools: Git, Hadoop, Apache Spark, MySQL, MongoDB, Google Cloud Platform, Bash \
-Languages: English (Fluent), Russian (Proficient), Spanish (Conversational) \
+Languages: English (Fluent), Russian (Proficient), Spanish (Conversational)
 
 ## Header 2
 
