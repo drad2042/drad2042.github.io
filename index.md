@@ -1,4 +1,5 @@
 [LinkedIn](./another-page.html)
+[![LinkedIn](https://github.com/drad2042/drad2042.github.io/blob/master/assets/img/linkedinlogo.png)](https://www.linkedin.com/in/daniel-radunsky/)
 
 There should be whitespace between paragraphs.
 
