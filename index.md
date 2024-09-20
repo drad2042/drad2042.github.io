@@ -1,9 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/daniel-radunsky/) \
 [GitHub](https://github.com/drad2042)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hi, my name is Daniel Radunsky. I am currently a student at Penn State University - University Park majoring in Computational Data Sciences in the College of Engineering with an expected graduation date of May, 2025.
 
 ## Skills
 Coding: Python, SQL, Java, R, Scala, JavaScript, HTML, CSS \
