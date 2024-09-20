@@ -1,9 +1,9 @@
 <p align="left">
   <a href="https://github.com/drad2042">
-    <img src="/assets/img/github_logo.png" alt="GitHub" width="100">
+    <img src="/assets/img/github_logo.png" alt="GitHub" width="50" style="margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/daniel-radunsky/">
-    <img src="/assets/img/linkedinlogo.png" alt="LinkedIn" width="100">
+    <img src="/assets/img/linkedinlogo.png" alt="LinkedIn" width="50" style="margin-left: 10px;">
   </a>
 </p>
 
