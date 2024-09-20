@@ -1,6 +1,11 @@
-<a href="https://github.com/drad2042">
-  <img src="/assets/img/github_logo.png" alt="GitHub" width="50">
-</a>
+<p align="left">
+  <a href="https://github.com/drad2042">
+    <img src="/assets/img/github_logo.png" alt="GitHub" width="100">
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-radunsky/">
+    <img src="/assets/img/linkedinlogo.png" alt="LinkedIn" width="100">
+  </a>
+</p>
 
 [LinkedIn](https://www.linkedin.com/in/daniel-radunsky/) \
 [GitHub](https://github.com/drad2042)
