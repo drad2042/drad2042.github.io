@@ -2,8 +2,6 @@
   <img src="/assets/img/github_logo.png" alt="GitHub" width="50">
 </a>
 
-[![GitHub](/assets/img/github_logo.png)](https://github.com/drad2042)
-
 [LinkedIn](https://www.linkedin.com/in/daniel-radunsky/) \
 [GitHub](https://github.com/drad2042)
 
