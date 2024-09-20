@@ -1,3 +1,5 @@
+[![GitHub](https://github.com/drad2042/drad2042.github.io/blob/master/assets/img/github_logo.png)](https://github.com/drad2042)
+
 [LinkedIn](https://www.linkedin.com/in/daniel-radunsky/) \
 [GitHub](https://github.com/drad2042)
 
