@@ -7,7 +7,11 @@
   </a>
 </p>
 
-Hi, my name is Daniel Radunsky. I am currently a student at Penn State University - University Park majoring in Computational Data Sciences in the College of Engineering with an expected graduation date of May, 2025.
+Hi, my name is Daniel Radunsky. I am currently a student at Penn State University - University Park majoring in Computational Data Sciences in the College of Engineering with an expected graduation date of May 2025.
+
+## Selected Coursework
+Data Structures and Algorithms, Machine Learning, Big Data Analytics, Databases, Neural 
+Networks, Artificial Intelligence, Programming Language Concepts, Mathematical Statistics, Advanced Calculus
 
 ## Skills
 Coding: Python, SQL, Java, R, Scala, JavaScript, HTML, CSS \
