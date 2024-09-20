@@ -1,13 +1,3 @@
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5K94JKJQSK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5K94JKJQSK');
-</script>
 <p align="left">
   <a href="https://github.com/drad2042">
     <img src="/assets/img/github_logo.png" alt="GitHub" width="50" style="margin-right: 10px;">
