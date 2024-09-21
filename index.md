@@ -18,14 +18,3 @@ Networks, Artificial Intelligence, Programming Language Concepts, Mathematical S
 Coding: Python, SQL, Java, R, Scala, JavaScript, HTML, CSS \
 Tools: Git, Hadoop, Apache Spark, MySQL, MongoDB, Google Cloud Platform, Bash \
 Languages: English (Fluent), Russian (Proficient), Spanish (Conversational)
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-```
-The final element.
-```
