@@ -18,3 +18,13 @@ Networks, Artificial Intelligence, Programming Language Concepts, Mathematical S
 Coding: Python, SQL, Java, R, Scala, JavaScript, HTML, CSS \
 Tools: Git, Hadoop, Apache Spark, MySQL, MongoDB, Google Cloud Platform, Bash \
 Languages: English (Fluent), Russian (Proficient), Spanish (Conversational)
+
+## Socials
+<p align="left">
+  <a href="https://github.com/drad2042">
+    <img src="/assets/img/github_logo.png" alt="GitHub" width="50" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-radunsky/">
+    <img src="/assets/img/linkedinlogo.png" alt="LinkedIn" width="50" style="margin-left: 10px;">
+  </a>
+</p>
