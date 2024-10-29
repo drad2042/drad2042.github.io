@@ -12,10 +12,10 @@ Languages: English (Fluent), Russian (Proficient), Spanish (Conversational)
 
 ## Socials
 <p align="left">
-  <a href="https://github.com/drad2042">
+  <a href="https://github.com/drad2042" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/github_logo.png" alt="GitHub" width="50" style="margin-right: 10px;">
   </a>
-  <a href="https://www.linkedin.com/in/daniel-radunsky/">
+  <a href="https://www.linkedin.com/in/daniel-radunsky/" target="_blank rel="noopener noreferrer">
     <img src="/assets/img/linkedinlogo.png" alt="LinkedIn" width="50" style="margin-left: 10px;">
   </a>
 </p>
